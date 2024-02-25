@@ -4,7 +4,7 @@
 
 *Workshop Goals:* The workshop aims to present open-source data processing methods for working with time series and satellite data, with a particular focus on snow, water, and rainfall. The participants will gain hands-on experience with open-source data processing tools, data visualization, and the design of open-source hardware.
 
-This github page contains all workshop materials.
+This github page contains all workshop materials. Talks and recording links will be uploaded after the workshop.
 
 *Workshop Schedule*
 
