@@ -2,11 +2,12 @@
 
 *Workshop organized and led by Dr Taylor Smith (University of Potsdam, Germany), Dr Bodo Bookhagen (University of Potsdam, Germany) and Dr Shakil Regmi (South-Eastern Finland University of Applied Sciences, Finland)*
 
-This github page contains all workshop materials.
-
 *Workshop Goals:* The workshop aims to present open-source data processing methods for working with time series and satellite data, with a particular focus on snow, water, and rainfall. The participants will gain hands-on experience with open-source data processing tools, data visualization, and the design of open-source hardware.
 
-_Workshop Schedule_
+This github page contains all workshop materials.
+
+*Workshop Schedule*
+
 Day 1: Satellite Data Processing with Open-Source Tools
  - overview of satellite climate Data with focus on hydrologic and sediment flux data
  - introduction to Google Earth Engine and extracting relevant data for study sites
