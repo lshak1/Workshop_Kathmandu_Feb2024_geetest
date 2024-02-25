@@ -12,7 +12,7 @@ Day 1: Satellite Data Processing with Open-Source Tools
  - overview of satellite climate Data with focus on hydrologic and sediment flux data
  - introduction to Google Earth Engine and extracting relevant data for study sites
  - integrating watershed data and mapping climate trends
- - creating visualization and consistent reports
+ - creating visualizations and consistent reports
 
 Day 2: Designing, Building, and Analyzing Data from Open-Source Sensors
  - measuring high-fequency hydro-climatic data
@@ -20,5 +20,3 @@ Day 2: Designing, Building, and Analyzing Data from Open-Source Sensors
  - collecting, transmitting, and prcessing high-frequency data
  - combining sensor and satellite data for further analysis 
  - research outlook and practical applications in Nepal
-
-
