@@ -2,6 +2,8 @@
 
 *Workshop organized and led by Dr Taylor Smith (University of Potsdam, Germany), Dr Bodo Bookhagen (University of Potsdam, Germany) and Dr Shakil Regmi (South-Eastern Finland University of Applied Sciences, Finland)*
 
+**YouTube recordings are available [here](https://www.youtube.com/playlist?list=PLf4x2rqfvPEPDQ--Cozr9OMLE71Hb9cD5)**
+
 ![Group Photo 26-Feb-2024](Exercises/Images/Group_photo_lr.jpg)
 
 *Workshop Goals:* The workshop aims to present open-source data processing methods for working with time series and satellite data, with a particular focus on snow, water, and rainfall. The participants will gain hands-on experience with open-source data processing tools, data visualization, and the design of open-source hardware.
